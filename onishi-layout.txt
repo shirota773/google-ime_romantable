@@ -96,14 +96,11 @@ jwd		ちゃ
 jwe		ちゅ
 jwf		ちょ
 jws		てぃ
-k	ん
-K	ん
-k:	ん
+g ん 
 ka	ね
 kd	な
 ke	ぬ
 kf	の
-kk		ん
 kod	にゃ
 koe	にゅ
 kof	にょ
@@ -262,10 +259,6 @@ zy	●
 べx	ぺ
 ほx		ぼ
 ぼx	ぽ
-んd	っな
-んs	っに
-んe	っぬ
-んa	っね
-んf	っの
+
 
 
