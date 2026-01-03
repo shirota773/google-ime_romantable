@@ -96,7 +96,6 @@ jwd		ちゃ
 jwe		ちゅ
 jwf		ちょ
 jws		てぃ
-g ん 
 ka	ね
 kd	な
 ke	ぬ
@@ -259,6 +258,7 @@ zy	●
 べx	ぺ
 ほx		ぼ
 ぼx	ぽ
+
 
 
 
